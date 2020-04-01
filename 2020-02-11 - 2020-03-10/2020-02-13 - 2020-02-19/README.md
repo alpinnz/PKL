@@ -26,9 +26,9 @@ Build app flutter
 
 2020-02-18
 /report
-Flutter
-mvvm architerture
+- Flutter
+- mvvm architerture
 
 2020-02-19
 /report
-Rebuild login
+- Rebuild login
