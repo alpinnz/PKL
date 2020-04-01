@@ -1,4 +1,4 @@
-2020-02-13
+#2020-02-13
 /report
 create app
 -2 page (login,home)
@@ -11,7 +11,7 @@ home page
 - set layout
 - display profile  card.(photo, name, email, phone, bio)
 
-2020-02-14
+#2020-02-14
 /report
 add page editProfile
 - add provider all page
