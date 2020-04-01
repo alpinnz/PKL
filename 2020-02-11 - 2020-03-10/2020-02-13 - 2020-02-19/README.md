@@ -13,14 +13,14 @@ home page
 
 #2020-02-14
 /report
-add page editProfile
+- add page editProfile
 - add provider all page
 - add route
 - add load data json in provider
 
 2020-02-17
 /report
-Build app flutter
+- Build app flutter
 - add login 
 - add  session login
 
